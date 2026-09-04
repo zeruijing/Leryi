@@ -56,7 +56,7 @@ memory-map/
 ## 开源协议与合规声明
 
 ### 许可证
-- 本仓库代码以 [MIT License](LICENSE) 发布（Copyright (c) 2026 zerujing）：可自由使用、修改、商用，需保留版权声明。
+- 本仓库代码以 [MIT License](LICENSE) 发布（Copyright (c) 2026 zeruijing）：可自由使用、修改、商用，需保留版权声明。
 
 ### 引用与衍生
 - 本项目为独立开发，仅**灵感**参考 [therealXiaomanChu/ex-skill](https://github.com/therealXiaomanChu/ex-skill)（对方仓库带 `LICENSE` 文件，**引用其任何内容前请先核实并遵守其协议**；不确定时保持「借鉴思路、独立编写」，不要整段复制）。
