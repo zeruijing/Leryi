@@ -56,5 +56,5 @@ user-invocable: true
 - 子代理报告：_build/reports/slice_*.json
 - 识别结果：vision_results.json、emoji_results.json
 - 照片详情库：her_details.json
-- 训练产物：logs/TINGTING（已归档到 A 盘 LTT）
+- 训练产物：自定义即可
 
