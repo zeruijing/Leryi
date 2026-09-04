@@ -14,7 +14,7 @@ user-invocable: true
 - photos/ —— 精选照片；leaflet.js/css —— 地图库；*.wav —— 语音
 
 ## 1. 数据挖掘（聊天记录）
-1. jsonl 每行一个 JSON（_type: message / header / member）。字段：timestamp、accountName（听说=自己、眠=对方）、content。
+1. jsonl 每行一个 JSON（_type: message / header / member）。字段：timestamp、accountName（user1=自己、user2=对方）、content。
 2. 时间换算：timestamp 是 UTC，北京时间 = 加 8 小时。
 3. 挖内容：逐行 json.loads，正则 [位置] 名称 (lat,lng) 提取微信定位（权威坐标）；media/(images|emojis|videos)/xxx 提取媒体索引（文件→时间→发送者）。
 4. 大语料精读：按月切片（每片不超过 115KB），交给子代理逐行通读，输出结构化报告（places/events/loveQuotes/conflicts/梗/个人信息/plans）。禁止子代理用 grep 代替通读。
