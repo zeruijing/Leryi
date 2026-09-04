@@ -10,7 +10,7 @@
 
 ## 功能特性
 
-- **主站**（main.html）—— 卫星地图 + 时间线 + 对话框 + 「第一次」+ 梗与昵称 + 相册 + 语音 + 聊天模块。
+- **主站**（main.html）—— 卫星地图 + 时间线 + 对话框 + 「第一次」+ 梗与昵称 + 相册 + 语音 + 聊天模块，可以将你们曾经去过的，或者未来规划想去的显示在地图上。
 - **聊天人设**（chat.html）—— 把 ta 的人设 prompt 内嵌成 AI 对话，API Key 只存浏览器 localStorage，绝不写进源码。
 - **视觉识别档案**（vision_all / vision_her / vision_check / vision_approve / vision_emoji.html）—— 照片识别、审批与 emoji 档案页。
 - **语音克隆** —— GPT-SoVITS v2Pro 训练 ta 的声音，支持零训练克隆 + 完整训练两套路线。
@@ -93,5 +93,5 @@ memory-map/
 
 ## 结束语
 
-- 仅此纪念Shenzhen high school的一位女孩
+- 仅此纪念Shenzhen high school的一位女孩，谢谢你让我明白了很多。谢谢你，T。
 <!-- 结束语由作者亲自写 —— 此处留白 -->
