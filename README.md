@@ -93,5 +93,5 @@ memory-map/
 
 ## 结束语
 
-- 仅此纪念Shenzhen high school的一位女孩，谢谢你让我明白了很多。谢谢你，T。
+- 仅此纪念Shenzhen high school的一位女孩，谢谢你让我明白了很多。谢谢你，艺。
 <!-- 结束语由作者亲自写 —— 此处留白 -->
